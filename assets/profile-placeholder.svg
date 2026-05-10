@@ -1,0 +1,16 @@
+<svg width="900" height="1200" viewBox="0 0 900 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="1200" rx="60" fill="#120A22"/>
+  <rect x="36" y="36" width="828" height="1128" rx="40" fill="url(#paint0_linear)" fill-opacity="0.3" stroke="rgba(255,255,255,0.12)"/>
+  <circle cx="450" cy="410" r="150" fill="#1C1334" stroke="#EAD8FF" stroke-opacity="0.25" stroke-width="6"/>
+  <path d="M230 922C230 788.899 337.899 681 471 681H429C562.101 681 670 788.899 670 922V958H230V922Z" fill="#1C1334" stroke="#EAD8FF" stroke-opacity="0.25" stroke-width="6"/>
+  <circle cx="718" cy="184" r="72" fill="#8A57FF" fill-opacity="0.22"/>
+  <circle cx="176" cy="1016" r="88" fill="#5887FF" fill-opacity="0.18"/>
+  <text x="450" y="1074" text-anchor="middle" fill="#F6F1FF" fill-opacity="0.9" font-family="Inter, Arial, sans-serif" font-size="34" font-weight="700">drop your profile pic here</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="125" y1="77" x2="764" y2="1109" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF8FDF" stop-opacity="0.32"/>
+      <stop offset="0.5" stop-color="#8A57FF" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#5887FF" stop-opacity="0.24"/>
+    </linearGradient>
+  </defs>
+</svg>
