@@ -910,6 +910,13 @@ h2 {
   text-align: center;
 }
 
+.page-note {
+  max-width: 560px;
+  margin: 0 auto 18px;
+  color: var(--muted);
+  line-height: 1.5;
+}
+
 .connect-section {
   max-width: 520px;
   margin: 0 auto 18px;
